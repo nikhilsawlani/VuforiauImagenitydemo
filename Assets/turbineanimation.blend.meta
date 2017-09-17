@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: c7a2b0eca0c68694c9ae5a9a6e973eda
+timeCreated: 1503230949
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Compressor
+    100002: Compressor_MeshPart0
+    100004: Compressor_MeshPart1
+    100006: Connecting_Rod
+    100008: End_Part
+    100010: Engine_Cowling_MeshPart0
+    100012: Engine_Cowling_MeshPart1
+    100014: Engine_Cowling_MeshPart2
+    100016: Engine_Cowling_MeshPart3
+    100018: Engine_Cowling_MeshPart4
+    100020: Engine_Cowling_MeshPart5
+    100022: Engine_Cowling_MeshPart6
+    100024: Engine_Cowling_MeshPart7
+    100026: Engine_Cowling_MeshPart8
+    100028: Fan
+    100030: Fan_MeshPart0
+    100032: Fan_MeshPart1
+    100034: Hi_Pressure_Compressor
+    100036: Hi_Pressure_Compressor_MeshPart0
+    100038: Hi_Pressure_Compressor_MeshPart1
+    100040: Turbine_Part_1
+    100042: Turbine_Part_2
+    100044: Turbine_Part_3
+    100046: Turbine_Part_4
+    100048: Turbine_Part_5
+    100050: Turbine_Part_6
+    100052: Turbine_Part_7
+    100054: //RootNode
+    400000: Compressor
+    400002: Compressor_MeshPart0
+    400004: Compressor_MeshPart1
+    400006: Connecting_Rod
+    400008: End_Part
+    400010: Engine_Cowling_MeshPart0
+    400012: Engine_Cowling_MeshPart1
+    400014: Engine_Cowling_MeshPart2
+    400016: Engine_Cowling_MeshPart3
+    400018: Engine_Cowling_MeshPart4
+    400020: Engine_Cowling_MeshPart5
+    400022: Engine_Cowling_MeshPart6
+    400024: Engine_Cowling_MeshPart7
+    400026: Engine_Cowling_MeshPart8
+    400028: Fan
+    400030: Fan_MeshPart0
+    400032: Fan_MeshPart1
+    400034: Hi_Pressure_Compressor
+    400036: Hi_Pressure_Compressor_MeshPart0
+    400038: Hi_Pressure_Compressor_MeshPart1
+    400040: Turbine_Part_1
+    400042: Turbine_Part_2
+    400044: Turbine_Part_3
+    400046: Turbine_Part_4
+    400048: Turbine_Part_5
+    400050: Turbine_Part_6
+    400052: Turbine_Part_7
+    400054: //RootNode
+    2300000: Compressor_MeshPart0
+    2300002: Compressor_MeshPart1
+    2300004: Connecting_Rod
+    2300006: End_Part
+    2300008: Engine_Cowling_MeshPart0
+    2300010: Engine_Cowling_MeshPart1
+    2300012: Engine_Cowling_MeshPart2
+    2300014: Engine_Cowling_MeshPart3
+    2300016: Engine_Cowling_MeshPart4
+    2300018: Engine_Cowling_MeshPart5
+    2300020: Engine_Cowling_MeshPart6
+    2300022: Engine_Cowling_MeshPart7
+    2300024: Engine_Cowling_MeshPart8
+    2300026: Fan_MeshPart0
+    2300028: Fan_MeshPart1
+    2300030: Hi_Pressure_Compressor_MeshPart0
+    2300032: Hi_Pressure_Compressor_MeshPart1
+    2300034: Turbine_Part_1
+    2300036: Turbine_Part_2
+    2300038: Turbine_Part_3
+    2300040: Turbine_Part_4
+    2300042: Turbine_Part_5
+    2300044: Turbine_Part_6
+    2300046: Turbine_Part_7
+    3300000: Compressor_MeshPart0
+    3300002: Compressor_MeshPart1
+    3300004: Connecting_Rod
+    3300006: End_Part
+    3300008: Engine_Cowling_MeshPart0
+    3300010: Engine_Cowling_MeshPart1
+    3300012: Engine_Cowling_MeshPart2
+    3300014: Engine_Cowling_MeshPart3
+    3300016: Engine_Cowling_MeshPart4
+    3300018: Engine_Cowling_MeshPart5
+    3300020: Engine_Cowling_MeshPart6
+    3300022: Engine_Cowling_MeshPart7
+    3300024: Engine_Cowling_MeshPart8
+    3300026: Fan_MeshPart0
+    3300028: Fan_MeshPart1
+    3300030: Hi_Pressure_Compressor_MeshPart0
+    3300032: Hi_Pressure_Compressor_MeshPart1
+    3300034: Turbine_Part_1
+    3300036: Turbine_Part_2
+    3300038: Turbine_Part_3
+    3300040: Turbine_Part_4
+    3300042: Turbine_Part_5
+    3300044: Turbine_Part_6
+    3300046: Turbine_Part_7
+    4300000: Engine_Cowling_MeshPart0
+    4300002: Engine_Cowling_MeshPart1
+    4300004: Engine_Cowling_MeshPart2
+    4300006: Engine_Cowling_MeshPart3
+    4300008: Engine_Cowling_MeshPart4
+    4300010: Engine_Cowling_MeshPart5
+    4300012: Engine_Cowling_MeshPart6
+    4300014: Engine_Cowling_MeshPart7
+    4300016: Engine_Cowling_MeshPart8
+    4300018: Turbine_Part_7
+    4300020: Turbine_Part_6
+    4300022: Turbine_Part_5
+    4300024: Turbine_Part_4
+    4300026: Turbine_Part_3
+    4300028: Turbine_Part_2
+    4300030: Turbine_Part_1
+    4300032: Hi_Pressure_Compressor_MeshPart0
+    4300034: Hi_Pressure_Compressor_MeshPart1
+    4300036: Fan_MeshPart0
+    4300038: Fan_MeshPart1
+    4300040: End_Part
+    4300042: Connecting_Rod
+    4300044: Compressor_MeshPart0
+    4300046: Compressor_MeshPart1
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 169
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Compressor
+        weight: 1
+      - path: Compressor/Compressor_MeshPart0
+        weight: 1
+      - path: Compressor/Compressor_MeshPart1
+        weight: 1
+      - path: Connecting_Rod
+        weight: 1
+      - path: End_Part
+        weight: 1
+      - path: Engine_Cowling_MeshPart0
+        weight: 1
+      - path: Engine_Cowling_MeshPart1
+        weight: 1
+      - path: Engine_Cowling_MeshPart2
+        weight: 1
+      - path: Engine_Cowling_MeshPart3
+        weight: 1
+      - path: Engine_Cowling_MeshPart4
+        weight: 1
+      - path: Engine_Cowling_MeshPart5
+        weight: 1
+      - path: Engine_Cowling_MeshPart6
+        weight: 1
+      - path: Engine_Cowling_MeshPart7
+        weight: 1
+      - path: Engine_Cowling_MeshPart8
+        weight: 1
+      - path: Fan
+        weight: 1
+      - path: Fan/Fan_MeshPart0
+        weight: 1
+      - path: Fan/Fan_MeshPart1
+        weight: 1
+      - path: Hi_Pressure_Compressor
+        weight: 1
+      - path: Hi_Pressure_Compressor/Hi_Pressure_Compressor_MeshPart0
+        weight: 1
+      - path: Hi_Pressure_Compressor/Hi_Pressure_Compressor_MeshPart1
+        weight: 1
+      - path: Turbine_Part_1
+        weight: 1
+      - path: Turbine_Part_2
+        weight: 1
+      - path: Turbine_Part_3
+        weight: 1
+      - path: Turbine_Part_4
+        weight: 1
+      - path: Turbine_Part_5
+        weight: 1
+      - path: Turbine_Part_6
+        weight: 1
+      - path: Turbine_Part_7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

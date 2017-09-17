@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: c84799c32cb931148af68e12867be7c3
+timeCreated: 1505553556
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: EBAmk2_001_base
+    100004: EBAmk2_001_base_MeshPart0
+    100006: EBAmk2_001_base_MeshPart1
+    100008: EBAmk2_002_mainarm
+    100010: EBAmk2_002_mainarm_MeshPart0
+    100012: EBAmk2_002_mainarm_MeshPart1
+    100014: EBAmk2_003_varm
+    100016: EBAmk2_004_link135
+    100018: EBAmk2_005_link135angled
+    100020: EBAmk2_006_horarm__
+    100022: EBAmk2_006_horarm___MeshPart0
+    100024: EBAmk2_006_horarm___MeshPart1
+    100026: EBAmk2_007_trialink
+    100028: EBAmk2_007_trialink_MeshPart0
+    100030: EBAmk2_007_trialink_MeshPart1
+    100032: EBAmk2_008_link147_new
+    100034: EBAmk2_009_trialinkfront
+    100036: EBAmk2_010_gearservo
+    100038: EBAmk2_011_gearmast_full
+    100040: EBAmk2_012_mainbase
+    100042: EBAmk2_013_lower_base
+    100044: EBAmk2_014_claw_base
+    100046: EBAmk2_015_claw_finger_dx
+    100048: EBAmk2_016_claw_gear_drive
+    100050: EBAmk2_017_claw_finger_sx
+    100052: EBAmk2_018_claw_gear_driven
+    400000: //RootNode
+    400002: EBAmk2_001_base
+    400004: EBAmk2_001_base_MeshPart0
+    400006: EBAmk2_001_base_MeshPart1
+    400008: EBAmk2_002_mainarm
+    400010: EBAmk2_002_mainarm_MeshPart0
+    400012: EBAmk2_002_mainarm_MeshPart1
+    400014: EBAmk2_003_varm
+    400016: EBAmk2_004_link135
+    400018: EBAmk2_005_link135angled
+    400020: EBAmk2_006_horarm__
+    400022: EBAmk2_006_horarm___MeshPart0
+    400024: EBAmk2_006_horarm___MeshPart1
+    400026: EBAmk2_007_trialink
+    400028: EBAmk2_007_trialink_MeshPart0
+    400030: EBAmk2_007_trialink_MeshPart1
+    400032: EBAmk2_008_link147_new
+    400034: EBAmk2_009_trialinkfront
+    400036: EBAmk2_010_gearservo
+    400038: EBAmk2_011_gearmast_full
+    400040: EBAmk2_012_mainbase
+    400042: EBAmk2_013_lower_base
+    400044: EBAmk2_014_claw_base
+    400046: EBAmk2_015_claw_finger_dx
+    400048: EBAmk2_016_claw_gear_drive
+    400050: EBAmk2_017_claw_finger_sx
+    400052: EBAmk2_018_claw_gear_driven
+    2300000: EBAmk2_001_base_MeshPart0
+    2300002: EBAmk2_001_base_MeshPart1
+    2300004: EBAmk2_002_mainarm_MeshPart0
+    2300006: EBAmk2_002_mainarm_MeshPart1
+    2300008: EBAmk2_003_varm
+    2300010: EBAmk2_004_link135
+    2300012: EBAmk2_005_link135angled
+    2300014: EBAmk2_006_horarm___MeshPart0
+    2300016: EBAmk2_006_horarm___MeshPart1
+    2300018: EBAmk2_007_trialink_MeshPart0
+    2300020: EBAmk2_007_trialink_MeshPart1
+    2300022: EBAmk2_008_link147_new
+    2300024: EBAmk2_009_trialinkfront
+    2300026: EBAmk2_010_gearservo
+    2300028: EBAmk2_011_gearmast_full
+    2300030: EBAmk2_012_mainbase
+    2300032: EBAmk2_013_lower_base
+    2300034: EBAmk2_014_claw_base
+    2300036: EBAmk2_015_claw_finger_dx
+    2300038: EBAmk2_016_claw_gear_drive
+    2300040: EBAmk2_017_claw_finger_sx
+    2300042: EBAmk2_018_claw_gear_driven
+    3300000: EBAmk2_001_base_MeshPart0
+    3300002: EBAmk2_001_base_MeshPart1
+    3300004: EBAmk2_002_mainarm_MeshPart0
+    3300006: EBAmk2_002_mainarm_MeshPart1
+    3300008: EBAmk2_003_varm
+    3300010: EBAmk2_004_link135
+    3300012: EBAmk2_005_link135angled
+    3300014: EBAmk2_006_horarm___MeshPart0
+    3300016: EBAmk2_006_horarm___MeshPart1
+    3300018: EBAmk2_007_trialink_MeshPart0
+    3300020: EBAmk2_007_trialink_MeshPart1
+    3300022: EBAmk2_008_link147_new
+    3300024: EBAmk2_009_trialinkfront
+    3300026: EBAmk2_010_gearservo
+    3300028: EBAmk2_011_gearmast_full
+    3300030: EBAmk2_012_mainbase
+    3300032: EBAmk2_013_lower_base
+    3300034: EBAmk2_014_claw_base
+    3300036: EBAmk2_015_claw_finger_dx
+    3300038: EBAmk2_016_claw_gear_drive
+    3300040: EBAmk2_017_claw_finger_sx
+    3300042: EBAmk2_018_claw_gear_driven
+    4300000: EBAmk2_017_claw_finger_sx
+    4300002: EBAmk2_018_claw_gear_driven
+    4300004: EBAmk2_016_claw_gear_drive
+    4300006: EBAmk2_015_claw_finger_dx
+    4300008: EBAmk2_014_claw_base
+    4300010: EBAmk2_013_lower_base
+    4300012: EBAmk2_012_mainbase
+    4300014: EBAmk2_011_gearmast_full
+    4300016: EBAmk2_010_gearservo
+    4300018: EBAmk2_009_trialinkfront
+    4300020: EBAmk2_008_link147_new
+    4300022: EBAmk2_007_trialink_MeshPart0
+    4300024: EBAmk2_007_trialink_MeshPart1
+    4300026: EBAmk2_006_horarm___MeshPart0
+    4300028: EBAmk2_006_horarm___MeshPart1
+    4300030: EBAmk2_005_link135angled
+    4300032: EBAmk2_004_link135
+    4300034: EBAmk2_003_varm
+    4300036: EBAmk2_002_mainarm_MeshPart0
+    4300038: EBAmk2_002_mainarm_MeshPart1
+    4300040: EBAmk2_001_base_MeshPart0
+    4300042: EBAmk2_001_base_MeshPart1
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

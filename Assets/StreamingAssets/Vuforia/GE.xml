@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="stop" size="1689.000000 1947.000000" />
+    <ImageTarget name="turbine" size="2265.000000 1274.000000" />
+    <ImageTarget name="pressure" size="1892.000000 1892.000000" />
+  </Tracking>
+</QCARConfig>
